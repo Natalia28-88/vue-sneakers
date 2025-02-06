@@ -1,4 +1,4 @@
-## Responsive Website for a Pizzeria
+## VUE SNEAKERS
 
 This is an educational project using the following technologies:
 
