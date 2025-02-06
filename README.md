@@ -1,35 +1,15 @@
-#  vue-sneakers
+## Responsive Website for a Pizzeria
 
-This template should help get you started developing with Vue 3 in Vite.
+This is an educational project using the following technologies:
 
-## Recommended IDE Setup
+- Vue 3
+- Vue Router
+- TailwindCSS
+- Axios
+- @formkit/auto-animate
+- Composition API / Options API
+- ESLint
+- Prettier
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- ## [demo](https://vue-sneakers-liart.vercel.app/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
